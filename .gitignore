@@ -1,0 +1,4 @@
+.vscode
+.venv
+notes/*.md
+prompts/*.md

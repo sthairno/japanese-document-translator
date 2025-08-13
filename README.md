@@ -38,6 +38,8 @@ python3 main.py
 
 3. Translation prompt files will be generated in the `prompts/` directory.
 
+4. Paste the generated prompt into ChatGPT or Cursor
+
 ### Directory Structure
 
 ```
